@@ -11,7 +11,7 @@ https://github.com/Tadkozh/Great-Form-React/tree/Reacthookform-Yup
 
 ---
 # TO SEE THIS PROJECT IN ACTION LOCALLY :
-+ git@github.com:Tadkozh/Great-Form.git
++ git clone git@github.com:Tadkozh/Great-Form.git
 + enjoy !
 
 ![Great-Form-React](CaptureFormulaire.png)
