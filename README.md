@@ -14,6 +14,6 @@ https://github.com/Tadkozh/Great-Form-React/tree/Reacthookform-Yup
 + git@github.com:Tadkozh/Great-Form.git
 + enjoy !
 
-![Great-Form-React](src/img/CaptureFormulaire.png)
+![Great-Form-React](CaptureFormulaire.png)
 ---
 See the original README of Create React App : [ReadMeReact.md](./ReadMeReact.md)
