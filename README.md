@@ -17,6 +17,7 @@
 ---
 # TO SEE THIS PROJECT IN ACTION LOCALLY :
 + git clone git@github.com:Tadkozh/Great-Form.git
++ Open with Live Server
 + enjoy !
 
 ![Great-Form-React](CaptureFormulaire.png)
